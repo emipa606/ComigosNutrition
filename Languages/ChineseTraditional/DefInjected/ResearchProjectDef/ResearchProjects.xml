@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <COMIGO_SmallerBreweryResearch.label>迷你釀酒桌</COMIGO_SmallerBreweryResearch.label>
+  <COMIGO_SmallerBreweryResearch.description>建造更小型的釀酒桌，滿足你的醉酒需求。</COMIGO_SmallerBreweryResearch.description>
+  <COMIGO_SmallerButcherTableResearch.label>迷你屠宰桌</COMIGO_SmallerButcherTableResearch.label>
+  <COMIGO_SmallerButcherTableResearch.description>建造更小型的屠宰桌。鋒利的刀鋸、架子和肉鉤使屠宰桌的體積變得更小。</COMIGO_SmallerButcherTableResearch.description>
+  <COMIGO_CuttingBoardResearch.label>砧板</COMIGO_CuttingBoardResearch.label>
+  <COMIGO_CuttingBoardResearch.description>建造砧板。工作效率較低但小型輕便，可連同所有刀具一起裝入旅行包中，非常適合遠行隊攜帶。</COMIGO_CuttingBoardResearch.description>
+  <COMIGO_CompactCookingStovesResearch.label>迷你料理桌</COMIGO_CompactCookingStovesResearch.label>
+  <COMIGO_CompactCookingStovesResearch.description>建造迷你料理桌。將烤箱和灶具組裝在一起來節省空間，使廚房更加小型緊湊。</COMIGO_CompactCookingStovesResearch.description>
+  <COMIGO_CompactPasteDispenser.label>小型營養膏合成機</COMIGO_CompactPasteDispenser.label>
+  <COMIGO_CompactPasteDispenser.description>建造小型營養膏合成機。重溫以往的營養膏合成機的設計後，新型號的體積大大減小了。這種新型號需要更熟練的建造者。</COMIGO_CompactPasteDispenser.description>
+  <COMIGO_InWallPasteDispenser.label>壁掛式營養膏合成機</COMIGO_InWallPasteDispenser.label>
+  <COMIGO_InWallPasteDispenser.description>建造壁掛式營養膏合成機。這種型號的體積縮小到了驚人的地步，使其能夠裝在墻上，代價則是降低了食材轉換效率。非常適合用來餵囚犯！</COMIGO_InWallPasteDispenser.description>
+  <COMIGO_AdvancedPasteDispenser.label>高級營養膏合成機</COMIGO_AdvancedPasteDispenser.label>
+  <COMIGO_AdvancedPasteDispenser.description>建造高級營養膏合成機。通過對營養學和分子分析深入研究，創造出更有效的自動化食品生產方式。</COMIGO_AdvancedPasteDispenser.description>
+  <COMIGO_PortableChemfuelStove_Research.label>便攜式爐灶</COMIGO_PortableChemfuelStove_Research.label>
+  <COMIGO_PortableChemfuelStove_Research.description>解鎖建造便攜式爐灶。為遠行隊設計的便攜式烹調設備，用來代替笨重的燃料爐灶和電力料理桌。</COMIGO_PortableChemfuelStove_Research.description>
+</LanguageData>

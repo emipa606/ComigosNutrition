@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <COMIGO_SmallerBrewery.label>迷你釀酒桌</COMIGO_SmallerBrewery.label>
+  <COMIGO_SmallerBrewery.description>一種附有各種設備，可將麥汁混合成啤酒的迷你工作桌。麥汁必須經過發酵，最終才能成為啤酒。</COMIGO_SmallerBrewery.description>
+  <!-- Smaller butchery -->
+  <COMIGO_SmallerButcherTable.label>迷你屠宰桌</COMIGO_SmallerButcherTable.label>
+  <COMIGO_SmallerButcherTable.description>一種將死亡生物屠宰成肉塊的迷你工作桌。桌上有一排小鉤子用來掛各種刀具，而另一對大鉤子則用來掛動物屍體。</COMIGO_SmallerButcherTable.description>
+  <!-- Cutting board -->
+  <COMIGO_CuttingBoard.label>砧板</COMIGO_CuttingBoard.label>
+  <COMIGO_CuttingBoard.description>一塊帶有剁肉刀具的砧板，比屠宰點更有效率。由於空間不足，屠宰需要耗費更多時間且產出更少的資源。無法受到工具櫃的加成。</COMIGO_CuttingBoard.description>
+  <COMIGO_SmallerElectricStove.label>迷你電力料理桌</COMIGO_SmallerElectricStove.label>
+  <COMIGO_SmallerElectricStove.description>一種用電力烹飪食物的迷你工作料理桌。</COMIGO_SmallerElectricStove.description>
+  <!-- - - - - - - - - - -  - - -  - - -->
+  <COMIGO_CompactNutrientPasteDispenser.label>小型營養膏合成機</COMIGO_CompactNutrientPasteDispenser.label>
+  <COMIGO_CompactNutrientPasteDispenser.description>一種將連接儲料槽中的有機食材，合成為可食用的營養膏機器。營養膏消耗的成本、時間比其他烹飪料理方式來得低 - 但是沒有人喜歡吃營養膏。這種型號經過改進縮小了體積。</COMIGO_CompactNutrientPasteDispenser.description>
+  <COMIGO_AdvancedNutrientPasteDispenser.label>高級營養膏合成機</COMIGO_AdvancedNutrientPasteDispenser.label>
+  <COMIGO_AdvancedNutrientPasteDispenser.description>一種將連接儲料槽中的有機食材，合成為可食用的營養膏機器。由於其先進的構造和我們在營養學方面的研究，這種型號消耗的食材更少。需消耗大量電力。</COMIGO_AdvancedNutrientPasteDispenser.description>
+  <COMIGO_InWallNutrientPasteDispenser.label>壁掛式營養膏合成機</COMIGO_InWallNutrientPasteDispenser.label>
+  <COMIGO_InWallNutrientPasteDispenser.description>一種將連接儲料槽中的有機食材，合成為可食用的營養膏機器。這種型號要比其放大版消耗更多的食材，不過可以掛在墻上。味道仍然很糟糕，非常適合用來餵囚犯！</COMIGO_InWallNutrientPasteDispenser.description>
+  <!-- - - - - - - - - -  - - -->
+  <COMIGO_NutrientArchoDispenser.label>超凡營養膏合成機</COMIGO_NutrientArchoDispenser.label>
+  <COMIGO_NutrientArchoDispenser.description>一臺古老但未受損傷的機器，來歷不明。它以某種神秘的方式操縱食材，將其中所有的礦物質、維生素和蛋白質濃縮製成一份食物，食材消耗少的出奇。機器上的紅色眼睛似乎在對類人生物進行掃描，以此為每名特定用戶提供精心設計的均衡膳食。如果你向裏面看去，能看到食材是如何流動的——還是四處飛濺？！——最終變成了綠糊糊......又惡心的.....營養膏。耗電量有些奇怪。</COMIGO_NutrientArchoDispenser.description>
+  <COMIGO_PortableChemfuelStove.label>便攜式爐灶（化學燃料）</COMIGO_PortableChemfuelStove.label>
+  <COMIGO_PortableChemfuelStove.description>一種輕便的爐灶，能放在桌子或其他工作桌面上，如果你需要的話也可以放在地上。消耗化學燃料來烹飪簡單和精致的料理。非常適合遠行隊和還未踏入工業時代的定居者們。受到傷害後會爆炸。</COMIGO_PortableChemfuelStove.description>
+</LanguageData>

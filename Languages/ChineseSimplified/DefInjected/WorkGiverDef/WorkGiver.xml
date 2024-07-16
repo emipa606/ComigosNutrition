@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DoBillsBrew.label>在酿造台酿酒</DoBillsBrew.label>
+  <DoBillsBrew.verb>酿造</DoBillsBrew.verb>
+  <DoBillsBrew.gerund>酿造于</DoBillsBrew.gerund>
+  <DoBillsButcherFlesh.label>屠宰尸体</DoBillsButcherFlesh.label>
+  <DoBillsButcherFlesh.verb>屠宰</DoBillsButcherFlesh.verb>
+  <DoBillsButcherFlesh.gerund>屠宰于</DoBillsButcherFlesh.gerund>
+  <DoBillsCook.label>在炉灶烹饪食物</DoBillsCook.label>
+  <DoBillsCook.verb>烹饪</DoBillsCook.verb>
+  <DoBillsCook.gerund>烹饪于</DoBillsCook.gerund>
+</LanguageData>

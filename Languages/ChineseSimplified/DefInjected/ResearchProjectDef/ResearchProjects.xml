@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <COMIGO_SmallerBreweryResearch.label>迷你酿造台</COMIGO_SmallerBreweryResearch.label>
+  <COMIGO_SmallerBreweryResearch.description>解锁建造更小型的酿造台，满足你的醉酒需求。</COMIGO_SmallerBreweryResearch.description>
+  <COMIGO_SmallerButcherTableResearch.label>迷你屠宰台</COMIGO_SmallerButcherTableResearch.label>
+  <COMIGO_SmallerButcherTableResearch.description>解锁建造更小型的屠宰台。锋利的刀锯、架子和肉钩使屠宰台的体积变得更小。</COMIGO_SmallerButcherTableResearch.description>
+  <COMIGO_CuttingBoardResearch.label>砧板</COMIGO_CuttingBoardResearch.label>
+  <COMIGO_CuttingBoardResearch.description>解锁建造砧板。工作效率较低但小型轻便，可连同所有刀具一起装入旅行包中，非常适合远行队携带。</COMIGO_CuttingBoardResearch.description>
+  <COMIGO_CompactCookingStovesResearch.label>迷你炉灶</COMIGO_CompactCookingStovesResearch.label>
+  <COMIGO_CompactCookingStovesResearch.description>解锁建造迷你炉灶。将烤箱和灶具组装在一起来节省空间，使厨房更加小型紧凑。</COMIGO_CompactCookingStovesResearch.description>
+  <COMIGO_CompactPasteDispenser.label>小型营养膏合成机</COMIGO_CompactPasteDispenser.label>
+  <COMIGO_CompactPasteDispenser.description>解锁建造小型营养膏合成机。重温以往的营养膏合成机的设计后，新型号的体积大大减小了。这种新型号需要更熟练的建造者。</COMIGO_CompactPasteDispenser.description>
+  <COMIGO_InWallPasteDispenser.label>壁挂式营养膏合成机</COMIGO_InWallPasteDispenser.label>
+  <COMIGO_InWallPasteDispenser.description>解锁建造壁挂式营养膏合成机。这种型号的体积缩小到了惊人的地步，使其能够装在墙上，代价则是降低了原料转换效率。非常适合用来喂囚犯！</COMIGO_InWallPasteDispenser.description>
+  <COMIGO_AdvancedPasteDispenser.label>高级营养膏合成机</COMIGO_AdvancedPasteDispenser.label>
+  <COMIGO_AdvancedPasteDispenser.description>解锁建造高级营养膏合成机。通过对营养学和分子分析深入研究，创造出更有效的自动化食品生产方式。</COMIGO_AdvancedPasteDispenser.description>
+  <COMIGO_PortableChemfuelStove_Research.label>便携式炉灶</COMIGO_PortableChemfuelStove_Research.label>
+  <COMIGO_PortableChemfuelStove_Research.description>解锁建造便携式炉灶。为远行队设计的便携式烹调设备，用来代替笨重的燃料和电力炉灶。</COMIGO_PortableChemfuelStove_Research.description>
+</LanguageData>
