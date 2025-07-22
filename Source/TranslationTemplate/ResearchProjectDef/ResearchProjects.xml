@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: advanced paste dispensers -->
+  <COMIGO_AdvancedPasteDispenser.label>advanced paste dispensers</COMIGO_AdvancedPasteDispenser.label>
+  <!-- EN: Research into dietology and molecular analysis to create even more effective ways of automated food production. -->
+  <COMIGO_AdvancedPasteDispenser.description>Research into dietology and molecular analysis to create even more effective ways of automated food production.</COMIGO_AdvancedPasteDispenser.description>
+  <!-- EN: compact cooking stoves -->
+  <COMIGO_CompactCookingStovesResearch.label>compact cooking stoves</COMIGO_CompactCookingStovesResearch.label>
+  <!-- EN: Research into space-efficient heating components that allow more compact variants of cooking sites, with an oven and hotplates combined into a single device. -->
+  <COMIGO_CompactCookingStovesResearch.description>Research into space-efficient heating components that allow more compact variants of cooking sites, with an oven and hotplates combined into a single device.</COMIGO_CompactCookingStovesResearch.description>
+  <!-- EN: compact paste dispenser -->
+  <COMIGO_CompactPasteDispenser.label>compact paste dispenser</COMIGO_CompactPasteDispenser.label>
+  <!-- EN: Revisit the previous design of a paste dispenser to greatly reduce the space occupied by this machine. The new model will require a more skilled builder. -->
+  <COMIGO_CompactPasteDispenser.description>Revisit the previous design of a paste dispenser to greatly reduce the space occupied by this machine. The new model will require a more skilled builder.</COMIGO_CompactPasteDispenser.description>
+  <!-- EN: cutting board -->
+  <COMIGO_CuttingBoardResearch.label>cutting board</COMIGO_CuttingBoardResearch.label>
+  <!-- EN: Create less efficient but small cutting boards that are light and can fit in a travel bag with all the knives, perfect for caravans. -->
+  <COMIGO_CuttingBoardResearch.description>Create less efficient but small cutting boards that are light and can fit in a travel bag with all the knives, perfect for caravans.</COMIGO_CuttingBoardResearch.description>
+  <!-- EN: in-wall dispensers -->
+  <COMIGO_InWallPasteDispenser.label>in-wall dispensers</COMIGO_InWallPasteDispenser.label>
+  <!-- EN: Shrink the occupied volume to an absurdly small amount, making paste dispensers fit into walls at the cost of a bit less efficient ingredient consumption. Perfect for feeding prisoners! -->
+  <COMIGO_InWallPasteDispenser.description>Shrink the occupied volume to an absurdly small amount, making paste dispensers fit into walls at the cost of a bit less efficient ingredient consumption. Perfect for feeding prisoners!</COMIGO_InWallPasteDispenser.description>
+  <!-- EN: portable chemfuel stove -->
+  <COMIGO_PortableChemfuelStove_Research.label>portable chemfuel stove</COMIGO_PortableChemfuelStove_Research.label>
+  <!-- EN: Design a portable device for cooking to be used in caravans and as a replacement to fuel or electric stoves. -->
+  <COMIGO_PortableChemfuelStove_Research.description>Design a portable device for cooking to be used in caravans and as a replacement to fuel or electric stoves.</COMIGO_PortableChemfuelStove_Research.description>
+  <!-- EN: smaller brewery -->
+  <COMIGO_SmallerBreweryResearch.label>smaller brewery</COMIGO_SmallerBreweryResearch.label>
+  <!-- EN: Develop a more compact brewery, for your drunken needs. -->
+  <COMIGO_SmallerBreweryResearch.description>Develop a more compact brewery, for your drunken needs.</COMIGO_SmallerBreweryResearch.description>
+  <!-- EN: smaller butcher table -->
+  <COMIGO_SmallerButcherTableResearch.label>smaller butcher table</COMIGO_SmallerButcherTableResearch.label>
+  <!-- EN: Sharp blades and saws, shelves, and meat hooks will allow for smaller butcher tables. -->
+  <COMIGO_SmallerButcherTableResearch.description>Sharp blades and saws, shelves, and meat hooks will allow for smaller butcher tables.</COMIGO_SmallerButcherTableResearch.description>
+</LanguageData>

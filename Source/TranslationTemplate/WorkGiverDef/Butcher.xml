@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: butcher creatures -->
+  <COMIGO_DoBillsButcherFlesh.label>butcher creatures</COMIGO_DoBillsButcherFlesh.label>
+  <!-- EN: butchering at -->
+  <COMIGO_DoBillsButcherFlesh.gerund>butchering at</COMIGO_DoBillsButcherFlesh.gerund>
+  <!-- EN: butcher -->
+  <COMIGO_DoBillsButcherFlesh.verb>butcher</COMIGO_DoBillsButcherFlesh.verb>
+</LanguageData>

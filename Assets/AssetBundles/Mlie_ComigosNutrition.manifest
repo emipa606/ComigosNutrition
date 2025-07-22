@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 4011148131
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ab2a1490f9ce12df6ccda65a15c192f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4ab2a1490f9ce12df6ccda65a15c192f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/ChemfuelPortableStove_north.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/SmallNutrientDispenser.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/SmallerButcherTable_north.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/ButcherBoard.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/TinyNutrientDispenser.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/SmallerCookingStove_south.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/SmallerButcherTable_east.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/AdvancedNutrientDispenser_north.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/SmallBrewBench/SmallBrewBench_south.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/SmallBrewBench/SmallBrewBench_north.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/NutrientArchoDispenser_north.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/SmallBrewBench/SmallBrewBench_east.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/SmallBrewBench/SmallBrewBench_west.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/AdvancedNutrientDispenser_west.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/SmallerButcherTable_south.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/NutrientArchoDispenser_west.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/ChemfuelPortableStove_west.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/SmallerCookingStove_north.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/AdvancedNutrientDispenser_south.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/SmallerCookingStove_east.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/ChemfuelPortableStove_south.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/SmallerButcherTable_West.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/SmallerCookingStove_west.png
+- Assets/Data/Mlie.ComigosNutrition/Textures/Things/Building/Production/NutrientArchoDispenser_south.png
+Dependencies: []

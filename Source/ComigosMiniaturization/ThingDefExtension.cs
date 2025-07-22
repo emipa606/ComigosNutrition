@@ -5,7 +5,7 @@ namespace ComigosMiniaturization;
 
 public class ThingDefExtension : DefModExtension
 {
-    private static readonly ThingDefExtension defaultValues = new ThingDefExtension();
+    private static readonly ThingDefExtension defaultValues = new();
 
     public ThingFilter allowedProductFilter;
 

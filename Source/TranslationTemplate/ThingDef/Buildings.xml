@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Advanced nutrient paste dispenser -->
+  <COMIGO_AdvancedNutrientPasteDispenser.label>Advanced nutrient paste dispenser</COMIGO_AdvancedNutrientPasteDispenser.label>
+  <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. This model consumes less ingredients, thanks to its advanced components and our research in dietology. The device consumes a lot of power. -->
+  <COMIGO_AdvancedNutrientPasteDispenser.description>A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. This model consumes less ingredients, thanks to its advanced components and our research in dietology. The device consumes a lot of power.</COMIGO_AdvancedNutrientPasteDispenser.description>
+  <!-- EN: compact nutrient paste dispenser -->
+  <COMIGO_CompactNutrientPasteDispenser.label>compact nutrient paste dispenser</COMIGO_CompactNutrientPasteDispenser.label>
+  <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. This is an improved model that occupies much, much less space. -->
+  <COMIGO_CompactNutrientPasteDispenser.description>A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. This is an improved model that occupies much, much less space.</COMIGO_CompactNutrientPasteDispenser.description>
+  <!-- EN: cutting board -->
+  <COMIGO_CuttingBoard.label>cutting board</COMIGO_CuttingBoard.label>
+  <!-- EN: A board with some knives and cleavers to butcher animals more efficiently. Due to the lack of space, butchering takes more time and yields a bit less resources than with a larger table. Can be put on tables. Doesn't benefit from tool cabinets. -->
+  <COMIGO_CuttingBoard.description>A board with some knives and cleavers to butcher animals more efficiently. Due to the lack of space, butchering takes more time and yields a bit less resources than with a larger table. Can be put on tables. Doesn't benefit from tool cabinets.</COMIGO_CuttingBoard.description>
+  <!-- EN: in-wall nutrient paste dispenser -->
+  <COMIGO_InWallNutrientPasteDispenser.label>in-wall nutrient paste dispenser</COMIGO_InWallNutrientPasteDispenser.label>
+  <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. This model consumes a bit more food than its larger analogues, but can be mounted in place of a wall segment. Still as gross, and perfect for feeding prisoners! -->
+  <COMIGO_InWallNutrientPasteDispenser.description>A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. This model consumes a bit more food than its larger analogues, but can be mounted in place of a wall segment. Still as gross, and perfect for feeding prisoners!</COMIGO_InWallNutrientPasteDispenser.description>
+  <!-- EN: nutrient archodispenser -->
+  <COMIGO_NutrientArchoDispenser.label>nutrient archodispenser</COMIGO_NutrientArchoDispenser.label>
+  <!-- EN: An ancient but untouched machine previously gifted to some advanced colony. It somehow manipulates food matter in weird ways to extract all the minerals, vitamins, and proteins into a meal, consuming ridiculously low amount of matter. A red eye seems to scan humanoids to provide a balanced meal designed for each particular user. If you look inside, you can see how food matter flows — or flies?! — and reforms into a green… disgusting… paste. Consumes a questionable amount of power. -->
+  <COMIGO_NutrientArchoDispenser.description>An ancient but untouched machine previously gifted to some advanced colony. It somehow manipulates food matter in weird ways to extract all the minerals, vitamins, and proteins into a meal, consuming ridiculously low amount of matter. A red eye seems to scan humanoids to provide a balanced meal designed for each particular user. If you look inside, you can see how food matter flows — or flies?! — and reforms into a green… disgusting… paste. Consumes a questionable amount of power.</COMIGO_NutrientArchoDispenser.description>
+  <!-- EN: portable chemfuel stove -->
+  <COMIGO_PortableChemfuelStove.label>portable chemfuel stove</COMIGO_PortableChemfuelStove.label>
+  <!-- EN: A lightweight stove that can be placed on a table or other working surface, or be placed directly on floor if needed. It can be used to cook simple and fine meals while consuming chemfuel. Perfect for caravans and pre-industrial settlers. Explodes on damage. -->
+  <COMIGO_PortableChemfuelStove.description>A lightweight stove that can be placed on a table or other working surface, or be placed directly on floor if needed. It can be used to cook simple and fine meals while consuming chemfuel. Perfect for caravans and pre-industrial settlers. Explodes on damage.</COMIGO_PortableChemfuelStove.description>
+  <!-- EN: smaller brewery -->
+  <COMIGO_SmallerBrewery.label>smaller brewery</COMIGO_SmallerBrewery.label>
+  <!-- EN: A work station with all the eq uipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
+  <COMIGO_SmallerBrewery.description>A work station with all the eq uipment needed to mix wort for beer production. Wort must be fermented to finally become beer.</COMIGO_SmallerBrewery.description>
+  <!-- EN: smaller butcher table -->
+  <COMIGO_SmallerButcherTable.label>smaller butcher table</COMIGO_SmallerButcherTable.label>
+  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. Knives and cleavers hang from a series of small hooks, with a pair of larger ones to hook larger animals. -->
+  <COMIGO_SmallerButcherTable.description>A heavy table for butchering dead creatures into pieces of raw meat. Knives and cleavers hang from a series of small hooks, with a pair of larger ones to hook larger animals.</COMIGO_SmallerButcherTable.description>
+  <!-- EN: smaller electric stove -->
+  <COMIGO_SmallerElectricStove.label>smaller electric stove</COMIGO_SmallerElectricStove.label>
+  <!-- EN: A compact electrically-powered stove with an attached countertop for preparing meals. -->
+  <COMIGO_SmallerElectricStove.description>A compact electrically-powered stove with an attached countertop for preparing meals.</COMIGO_SmallerElectricStove.description>
+</LanguageData>

@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>b2a71114-fcd6-4b6f-9459-aaf954242a7f</ID>
   <ModName>Comigo's Nutrition (Continued)</ModName>
-  <Version>1.5.0</Version>
+  <Version>1.6.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,4 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
 

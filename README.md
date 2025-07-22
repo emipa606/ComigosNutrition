@@ -1,4 +1,4 @@
-# [Comigo's Nutrition (Continued)]()
+# [Comigo's Nutrition (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3290758760)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -70,14 +70,13 @@ An ancient artifact, it can only be found as rewards to quests or, very rarely, 
 Should be compatible with **e v e r y t h i n g**, as it is a purely XML + graphical mod.
 MONKE told me how to support modded recipes, so now they are supported here too!
 
-# Translations
+~~# Translations
 
-[Chinese language pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2547729654) by MZM_GOW.
+[Chinese language pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2547729654) by MZM_GOW.~~
+Now included
 
 ![Image](https://steamuserimages-a.akamaihd.net/ugc/1692774594719347560/576FB517415E1C97B130F732C0F92B48BB9CC7BB/)
 
-Check out my other mods!
-[![Image](https://steamuserimages-a.akamaihd.net/ugc/1693901150445931428/1BB46AB1F490F2BC879EF2ECBC733F2231723B60/)](https://steamcommunity.com/sharedfiles/filedetails/?id=2548256441)
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
@@ -85,10 +84,12 @@ Check out my other mods!
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
+[![Image](https://img.shields.io/github/v/release/emipa606/ComigosNutrition?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3290758760) | tags:  small,  building

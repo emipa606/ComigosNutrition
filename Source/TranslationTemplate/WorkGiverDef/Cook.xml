@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cook meals at a stove -->
+  <COMIGO_DoBillsCook.label>cook meals at a stove</COMIGO_DoBillsCook.label>
+  <!-- EN: cooking at -->
+  <COMIGO_DoBillsCook.gerund>cooking at</COMIGO_DoBillsCook.gerund>
+  <!-- EN: cook -->
+  <COMIGO_DoBillsCook.verb>cook</COMIGO_DoBillsCook.verb>
+</LanguageData>
