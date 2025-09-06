@@ -43,16 +43,6 @@
     <pathCost>25</pathCost>
     <hasInteractionCell>True</hasInteractionCell>
     <interactionCellOffset>(0,0,-1)</interactionCellOffset>
-    <!--<recipes>
-            <li>CookMealSimple</li>
-            <li>CookMealFine</li>
-            <li>CookMealFine_Veg</li>
-            <li>CookMealFine_Meat</li>
-            <li>CookMealSimpleBulk</li>
-            <li>CookMealFineBulk</li>
-            <li>CookMealFineBulk_Veg</li>
-            <li>CookMealFineBulk_Meat</li>
-        </recipes>-->
     <modExtensions>
       <li Class="ComigosMiniaturization.ThingDefExtension">
         <inheritRecipesFrom>
@@ -81,9 +71,6 @@
           <li MayRequire="VanillaExpanded.VCookE">VCE_CookSoupGourmet</li>
           <li MayRequire="VanillaExpanded.VCookEStews">VCE_CookStewLavish</li>
         </disallowedRecipes>
-        <!-- <allowedProductFilter></allowedProductFilter>
-                <disallowedProductFilter></disallowedProductFilter>
-                <allowedRecipes></allowedRecipes>-->
       </li>
     </modExtensions>
     <inspectorTabs>
@@ -124,6 +111,7 @@
       <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
       <heatPerTickWhileWorking>0.10</heatPerTickWhileWorking>
       <canPlaceOverImpassablePlant>false</canPlaceOverImpassablePlant>
+      <workTableRoomRole />
     </building>
     <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
     <researchPrerequisites>

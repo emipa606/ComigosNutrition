@@ -36,18 +36,11 @@
     <hasInteractionCell>True</hasInteractionCell>
     <interactionCellOffset>(0,0,-1)</interactionCellOffset>
     <surfaceType>Item</surfaceType>
-    <!--<recipes>
-      <li>Make_Wort</li>
-    </recipes>-->
     <modExtensions>
       <li Class="ComigosMiniaturization.ThingDefExtension">
         <inheritRecipesFrom>
           <li>Brewery</li>
         </inheritRecipesFrom>
-        <!-- <allowedProductFilter></allowedProductFilter>
-            <disallowedProductFilter></disallowedProductFilter>
-            <allowedRecipes></allowedRecipes>
-            <disallowedRecipes></disallowedRecipes> -->
       </li>
     </modExtensions>
     <inspectorTabs>
@@ -55,6 +48,8 @@
     </inspectorTabs>
     <building>
       <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+      <workTableRoomRole>Workshop</workTableRoomRole>
+      <workTableNotInRoomRoleFactor>0.8</workTableNotInRoomRoleFactor>
     </building>
     <placeWorkers>
       <li>PlaceWorker_PreventInteractionSpotOverlap</li>

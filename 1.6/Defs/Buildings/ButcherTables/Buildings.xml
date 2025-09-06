@@ -47,19 +47,11 @@
     <interactionCellOffset>(0,0,-1)</interactionCellOffset>
     <surfaceType>Item</surfaceType>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
-    <!-- <recipes>
-            <li>ButcherCorpseFlesh</li>
-            <li>Make_Kibble</li>
-        </recipes> -->
     <modExtensions>
       <li Class="ComigosMiniaturization.ThingDefExtension">
         <inheritRecipesFrom>
           <li>TableButcher</li>
         </inheritRecipesFrom>
-        <!-- <allowedProductFilter></allowedProductFilter>
-                <disallowedProductFilter></disallowedProductFilter>
-                <allowedRecipes></allowedRecipes>
-                <disallowedRecipes></disallowedRecipes> -->
       </li>
     </modExtensions>
     <inspectorTabs>
@@ -67,6 +59,8 @@
     </inspectorTabs>
     <building>
       <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+      <paintable>true</paintable>
+      <workTableRoomRole />
     </building>
     <comps>
       <li Class="CompProperties_AffectedByFacilities">
@@ -114,18 +108,11 @@
     <designationCategory>Production</designationCategory>
     <passability>PassThroughOnly</passability>
     <pathCost>25</pathCost>
-    <!--<recipes>
-            <li>ButcherCorpseFlesh</li>
-        </recipes>-->
     <modExtensions>
       <li Class="ComigosMiniaturization.ThingDefExtension">
         <inheritRecipesFrom>
           <li>ButcherSpot</li>
         </inheritRecipesFrom>
-        <!-- <allowedProductFilter></allowedProductFilter>
-                <disallowedProductFilter></disallowedProductFilter>
-                <allowedRecipes></allowedRecipes>
-                <disallowedRecipes></disallowedRecipes> -->
       </li>
     </modExtensions>
     <inspectorTabs>
@@ -135,6 +122,7 @@
       <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
       <canPlaceOverImpassablePlant>false</canPlaceOverImpassablePlant>
       <isEdifice>false</isEdifice>
+      <workTableRoomRole />
       <buildingTags>
         <li>Production</li>
       </buildingTags>

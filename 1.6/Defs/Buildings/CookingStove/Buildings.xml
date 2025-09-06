@@ -39,10 +39,6 @@
         <inheritRecipesFrom>
           <li>ElectricStove</li>
         </inheritRecipesFrom>
-        <!-- <allowedProductFilter></allowedProductFilter>
-                <disallowedProductFilter></disallowedProductFilter>
-                <allowedRecipes></allowedRecipes>
-                <disallowedRecipes></disallowedRecipes> -->
       </li>
     </modExtensions>
     <inspectorTabs>
@@ -65,6 +61,8 @@
       <isMealSource>true</isMealSource>
       <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
       <heatPerTickWhileWorking>0.10</heatPerTickWhileWorking>
+      <workTableRoomRole>Kitchen</workTableRoomRole>
+      <workTableNotInRoomRoleFactor>0.8</workTableNotInRoomRoleFactor>
     </building>
     <designationHotKey>Misc8</designationHotKey>
     <placeWorkers>
