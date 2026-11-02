@@ -6,4 +6,35 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="ComigosMiniaturization/ComigosMiniaturization.csproj" />
+  <Folder Name="/XML/1.7/Defs/WorkGivers/">
+    <File Path="../1.7/Defs/WorkGivers/Brew.xml" />
+    <File Path="../1.7/Defs/WorkGivers/Butcher.xml" />
+    <File Path="../1.7/Defs/WorkGivers/Cook.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/Buildings/Brewery/">
+    <File Path="../1.7/Defs/Buildings/Brewery/Buildings.xml" />
+    <File Path="../1.7/Defs/Buildings/Brewery/ResearchProjects.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/Buildings/PortableChemfuelStove/">
+    <File Path="../1.7/Defs/Buildings/PortableChemfuelStove/Buildings.xml" />
+    <File Path="../1.7/Defs/Buildings/PortableChemfuelStove/ResearchProjects.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/Buildings/ButcherTables/">
+    <File Path="../1.7/Defs/Buildings/ButcherTables/Buildings.xml" />
+    <File Path="../1.7/Defs/Buildings/ButcherTables/ResearchProjects.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/Buildings/NutrientPasteDispensers/">
+    <File Path="../1.7/Defs/Buildings/NutrientPasteDispensers/Buildings.xml" />
+    <File Path="../1.7/Defs/Buildings/NutrientPasteDispensers/ResearchProjects.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/Buildings/CookingStove/">
+    <File Path="../1.7/Defs/Buildings/CookingStove/Buildings.xml" />
+    <File Path="../1.7/Defs/Buildings/CookingStove/ResearchProjects.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/">
+    <File Path="../1.7/Defs/ResearchTabs.xml" />
+  </Folder>
 </Solution>
